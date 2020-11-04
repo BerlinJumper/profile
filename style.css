@@ -18,17 +18,17 @@ h1 {
 
   /* unvisited link */
 a:link {
-  color: #363d3f;
+  color: #76938d;
 }
 
 /* visited link */
 a:visited {
-  color: #363d3f;
+  color: #76938d;
 }
 
 /* mouse over link */
 a:hover {
-  color: #363d3f;
+  color: #76938d;
 }
 
 /* selected link */
